@@ -1,0 +1,41 @@
+{
+  "id": 9,
+  "category": "game-offline",
+  "slug": "elden-ring-offline-lab",
+  "target": "ELDEN RING",
+  "appid": "1245620",
+  "summaryRu": "Спецификация офлайн-тренера для проверки сборок на отдельной копии сохранения.",
+  "features": [
+    "Offline build scenarios",
+    "Equipment comparison sheets",
+    "Save restore verification"
+  ],
+  "title": "GraceLedger — ELDEN RING — Resolve",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "GraceLedger",
+  "repositoryName": "graceledger-elden-ring-offline-lab-resolve",
+  "githubTopics": [
+    "elden-ring",
+    "build-planning",
+    "equipment-comparison",
+    "save-recovery",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "resolve"
+}
